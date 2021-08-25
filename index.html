@@ -17,60 +17,52 @@
   <title>LITE</title>
   <link rel="manifest" href="manifest.json">
   <style>
-    .loading {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      margin: 0;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      -ms-transform: translate(-50%, -50%);
-      transform: translate(-50%, -50%);
-    }
-
-    .lds-ripple {
+    #loader {
+  width: 100vw;
+  height: 100vh;
+  /* display: block; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  align-content: center;
+  background-color: #7e7dd6;
+}
+.lds-dual-ring {
   display: inline-block;
-  position: relative;
   width: 80px;
   height: 80px;
 }
-.lds-ripple div {
-  position: absolute;
-  border: 4px solid #fff;
-  opacity: 1;
+.lds-dual-ring:after {
+  content: " ";
+  display: block;
+  width: 64px;
+  height: 64px;
+  margin: 8px;
   border-radius: 50%;
-  animation: lds-ripple 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+  border: 6px solid #fff;
+  border-color: #fff transparent #fff transparent;
+  animation: lds-dual-ring 1.2s linear infinite;
 }
-.lds-ripple div:nth-child(2) {
-  animation-delay: -0.5s;
-}
-@keyframes lds-ripple {
+@keyframes lds-dual-ring {
   0% {
-    top: 36px;
-    left: 36px;
-    width: 0;
-    height: 0;
-    opacity: 1;
+    transform: rotate(0deg);
   }
   100% {
-    top: 0px;
-    left: 0px;
-    width: 72px;
-    height: 72px;
-    opacity: 0;
+    transform: rotate(360deg);
   }
 }
+
   </style>
 </head>
 <body>
- <div class="loading">
-   <div class="lds-ripple">
-     <div></div>
-     <div></div>
-   </div>
- </div>
- <script src="main.dart.js" type="application/javascript"></script>
+
+<div id="loader">
+  <div class="lds-dual-ring"></div>
+</div>
+<script src="main.dart.js" type="application/javascript"
+        onendload="document.getElementById('loader').remove();"></script>
 
 </body>
 </html>
