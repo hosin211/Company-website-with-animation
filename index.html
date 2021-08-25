@@ -17,6 +17,18 @@
   <title>LITE</title>
   <link rel="manifest" href="manifest.json">
   <style>
+    .loading {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+
     .lds-ripple {
   display: inline-block;
   position: relative;
@@ -52,10 +64,9 @@
   </style>
 </head>
 <body>
-<div class="lds-ripple">
-  <div></div>
-  <div></div>
-</div>
+ <div class="loading">
+   <div class="lds-ripple"></div>
+ </div>
  <script src="main.dart.js" type="application/javascript"></script>
 
 </body>
