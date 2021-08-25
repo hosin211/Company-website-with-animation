@@ -36509,7 +36509,7 @@ p=T.eg(E.a1g(L.Dj(l,l,l,l,l,l,l,l,!0,new F.dA(4,C.aw,new Y.cR(new P.A(k),2,C.M))
 o=K.nM(50)
 n=t.J
 n=H.b([s,r,q,p,T.lk(T.ap0(new N.hH(new T.a38(),l,l,l,l,l,l,new P.A(4293456121),l,l,l,new P.A(k),l,l,l,l,l,l,l,T.YV(H.b([U.Dc("Assets/contact_icon.png",0.1081*m.a.c),T.eg(l,l,20),L.dn("SEND",l,l,l,l,l,l)],n),C.cQ,C.bq),new V.at(50,20,50,20),l,new X.cL(o,C.z),C.D,l,!1,l,l,l,l,!0,l)),l,l)],n)
-return M.dw(l,new A.tT(new T.HA(g*0.1,h*0.09,n,l),C.dJ,l),l,C.wN,j,new V.at(0,20*i/100,0,0),new V.at(60,60,60,60),l)}}
+return M.dw(l,new A.tT(new T.HA(g*0.1,h*0.09,n,l),C.dJ,l),l,C.wN,j,new V.at(0,10*i/100,0,0),new V.at(60,60,60,60),l)}}
 T.a34.prototype={
 $1(a){},
 $S:21}
@@ -36574,12 +36574,12 @@ $2(a,b){var s,r,q,p=null,o=this.a,n=o.a,m=n.c,l=M.dw(p,p,C.j,p,m,p,p,p)
 n=T.EV(0.2162*m,M.dw(p,p,C.Fx,p,m*0.54054,p,p,0.7692*n.d),p,p,p,0,p,p)
 m=$.hb.aX()
 s=o.geu(o)
-m=T.EV(p,L.dn("THE TEAM ",p,p,p,A.cM(p,p,t.MH.a(s.gn(s).a.h(0,C.dI)),p,p,p,p,p,p,p,p,S.Gk(25),p,C.b3,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p,120,p,10*m/100,p)
+m=T.EV(p,L.dn("THE TEAM ",p,p,p,A.cM(p,p,t.MH.a(s.gn(s).a.h(0,C.dI)),p,p,p,p,p,p,p,p,S.Gk(23),p,C.b3,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p,120,p,10*m/100,p)
 s=$.hb.aX()
 r=o.geu(o)
 r=H.abZ(r.gn(r).a.h(0,C.iT))
 q=t.J
-return T.pQ(C.cG,H.b([l,n,m,T.EV(p,T.YV(H.b([T.BQ(H.b([L.dn("the nerd           ",p,p,p,A.cM(p,p,C.j,p,p,p,p,p,p,p,p,10,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),new T.cJ(C.dZ,M.dw(p,new T.cJ(C.dY,U.Dc("Assets/hosin212.jpg",0.27027*o.a.c),p),C.eG,p,p,p,p,p),p),L.dn("               hosin212",p,p,p,A.cM(p,p,C.j,p,p,p,p,p,p,p,p,10,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)],q),C.bI,C.bq),T.eg(p,p,10),T.BQ(H.b([L.dn("the head           ",p,p,p,A.cM(p,p,C.j,p,p,p,p,p,p,p,p,10,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),new T.cJ(C.dZ,M.dw(p,new T.cJ(C.dY,U.Dc("Assets/zed.jpg",0.27027*o.a.c),p),C.eG,p,p,p,p,p),p),L.dn("               Zinedine",p,p,p,A.cM(p,p,C.j,p,p,p,p,p,p,p,p,10,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)],q),C.bI,C.bq),T.eg(p,p,10),T.BQ(H.b([L.dn("the fish           ",p,p,p,A.cM(p,p,C.j,p,p,p,p,p,p,p,p,10,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),new T.cJ(C.dZ,M.dw(p,new T.cJ(C.dY,U.Dc("Assets/ammr21.jpg",0.27027*o.a.c),p),C.eG,p,p,p,p,p),p),L.dn("               Ammar",p,p,p,A.cM(p,p,C.j,p,p,p,p,p,p,p,p,10,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)],q),C.bI,C.bq),T.eg(p,p,10),T.BQ(H.b([L.dn("the bot           ",p,p,p,A.cM(p,p,C.j,p,p,p,p,p,p,p,p,10,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),new T.cJ(C.dZ,M.dw(p,new T.cJ(C.dY,U.Dc("Assets/zen.jpg",0.27027*o.a.c),p),C.eG,p,p,p,p,p),p),L.dn("               Ammar2",p,p,p,A.cM(p,p,C.j,p,p,p,p,p,p,p,p,10,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)],q),C.bI,C.bq)],q),C.cQ,C.bq),p,p,p,r,35*s/100,p)],q),C.bu)},
+return T.pQ(C.cG,H.b([l,n,m,T.EV(p,T.YV(H.b([T.BQ(H.b([L.dn("the nerd           ",p,p,p,A.cM(p,p,C.j,p,p,p,p,p,p,p,p,10,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),new T.cJ(C.dZ,M.dw(p,new T.cJ(C.dY,U.Dc("Assets/hosin212.jpg",0.27027*o.a.c),p),C.eG,p,p,p,p,p),p),L.dn("               hosin212",p,p,p,A.cM(p,p,C.j,p,p,p,p,p,p,p,p,10,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)],q),C.bI,C.bq),T.eg(p,p,10),T.BQ(H.b([L.dn("the head           ",p,p,p,A.cM(p,p,C.j,p,p,p,p,p,p,p,p,10,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),new T.cJ(C.dZ,M.dw(p,new T.cJ(C.dY,U.Dc("Assets/zed.jpg",0.27027*o.a.c),p),C.eG,p,p,p,p,p),p),L.dn("               Zinedine",p,p,p,A.cM(p,p,C.j,p,p,p,p,p,p,p,p,10,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)],q),C.bI,C.bq),T.eg(p,p,10),T.BQ(H.b([L.dn("the fish           ",p,p,p,A.cM(p,p,C.j,p,p,p,p,p,p,p,p,10,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),new T.cJ(C.dZ,M.dw(p,new T.cJ(C.dY,U.Dc("Assets/ammr21.jpg",0.27027*o.a.c),p),C.eG,p,p,p,p,p),p),L.dn("               Ammar",p,p,p,A.cM(p,p,C.j,p,p,p,p,p,p,p,p,10,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)],q),C.bI,C.bq),T.eg(p,p,10),T.BQ(H.b([L.dn("the bot           ",p,p,p,A.cM(p,p,C.j,p,p,p,p,p,p,p,p,10,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),new T.cJ(C.dZ,M.dw(p,new T.cJ(C.dY,U.Dc("Assets/zen.jpg",0.27027*o.a.c),p),C.eG,p,p,p,p,p),p),L.dn("               Ammar2",p,p,p,A.cM(p,p,C.j,p,p,p,p,p,p,p,p,10,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)],q),C.bI,C.bq)],q),C.cQ,C.bq),p,p,p,r,20*s/100,p)],q),C.bu)},
 $S:318}
 O.Ok.prototype={
 k(a){this.bd(0)},
