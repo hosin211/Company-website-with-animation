@@ -36508,7 +36508,7 @@ p=T.eg(E.a1g(L.Dj(l,l,l,l,l,l,l,l,!0,new F.dA(4,C.aw,new Y.cR(new P.A(k),2,C.M))
 o=K.nM(50)
 n=t.J
 n=H.b([s,r,q,p,T.lk(T.ap0(new N.hH(new T.a38(),l,l,l,l,l,l,new P.A(4293456121),l,l,l,new P.A(k),l,l,l,l,l,l,l,T.YU(H.b([U.Dc("Assets/contact_icon.png",0.1081*m.a.c),T.eg(l,l,20),L.dn("SEND",l,l,l,l,l,l)],n),C.cQ,C.bq),new V.at(50,20,50,20),l,new X.cL(o,C.z),C.D,l,!1,l,l,l,l,!0,l)),l,l)],n)
-return M.dw(l,new A.tT(new T.Hz(j*0.1,i*0.09,n,l),C.dJ,l),l,C.wN,i*1.081,new V.at(0,0.108*i,0,0),new V.at(60,60,60,60),l)}}
+return M.dw(l,new A.tT(new T.Hz(j*0.1,i*0.09,n,l),C.dJ,l),l,C.wN,i,new V.at(0,0.108*i,0,0),new V.at(60,60,60,60),l)}}
 T.a34.prototype={
 $1(a){},
 $S:21}
@@ -36531,7 +36531,7 @@ V.Oq.prototype={
 P(a,b){return U.aa2(new V.a81())}}
 V.a81.prototype={
 $3(a,b,a0){var s=null,r=$.hb.aX(),q=T.eg(s,6*$.hb.aX()/100,s),p=P.bj(0,300,0),o=P.bj(0,250,0),n=L.dn("IT TAKES 7 SECONDS",s,s,s,A.cM(s,s,s,s,s,s,s,s,s,s,s,S.a_a(25),s,C.b3,s,s,!0,s,s,s,s,s,s,s,s),s,s),m=P.bj(0,1500,0),l=P.bj(0,250,0),k=L.dn("TO MAKE AN IMPERSSION ",s,s,s,A.cM(s,s,s,s,s,s,s,s,s,s,s,S.a_a(25),s,C.b3,s,s,!0,s,s,s,s,s,s,s,s),s,s),j=P.bj(0,2400,0),i=P.bj(0,250,0),h=L.dn("WE DO IT IN 5 ",s,s,s,A.cM(s,s,s,s,s,s,s,s,s,s,s,S.a_a(25),s,C.b3,s,s,!0,s,s,s,s,s,s,s,s),s,s),g=T.eg(s,5*$.hb.aX()/100,s),f=P.bj(0,3000,0),e=$.hb.aX(),d=C.ah.h(0,200),c=L.af9(C.BB,C.hG)
-return M.dw(s,T.BQ(H.b([q,new M.iH(new T.cJ(new V.at(3,3,3,3),n,s),p,o,new P.m(0,-10),s),new M.iH(new T.cJ(new V.at(3,3,3,3),k,s),m,l,new P.m(0,-10),s),new M.iH(new T.cJ(new V.at(3,3,3,3),h,s),j,i,new P.m(0,-10),s),g,T.lk(new M.iH(new U.x5(15*e/100,M.dw(s,B.TZ(C.pj.h(0,200),c,24,new V.a80(),s),s,new S.fE(d,s,s,s,s,s,C.bg),s,s,s,s),s),f,C.jU,new P.m(0,-15),s),s,s)],t.J),C.bI,C.bq),C.j,s,100*r/100,s,s,s)},
+return M.dw(s,T.BQ(H.b([q,new M.iH(new T.cJ(new V.at(3,3,3,3),n,s),p,o,new P.m(0,-10),s),new M.iH(new T.cJ(new V.at(3,3,3,3),k,s),m,l,new P.m(0,-10),s),new M.iH(new T.cJ(new V.at(3,3,3,3),h,s),j,i,new P.m(0,-10),s),g,T.lk(new M.iH(new U.x5(15*e/100,M.dw(s,B.TZ(C.pj.h(0,200),c,24,new V.a80(),s),s,new S.fE(d,s,s,s,s,s,C.bg),s,s,s,s),s),f,C.jU,new P.m(0,-15),s),s,s)],t.J),C.bI,C.bq),C.p,s,100*r/100,s,s,s)},
 $C:"$3",
 $R:3,
 $S:310}
@@ -36569,7 +36569,7 @@ $1(a){var s=this.a
 s.gf2(s).e3(0)},
 $S:9}
 O.a8w.prototype={
-$2(a,b){var s,r,q,p=null,o=this.a,n=o.a,m=n.c,l=M.dw(p,p,C.j,p,m*1.081,p,p,p)
+$2(a,b){var s,r,q,p=null,o=this.a,n=o.a,m=n.c,l=M.dw(p,p,C.j,p,m,p,p,p)
 n=T.EV(0.2162*m,M.dw(p,p,C.Fx,p,m*0.54054,p,p,0.7692*n.d),p,p,p,0,p,p)
 m=$.hb.aX()
 s=o.geu(o)
@@ -65814,11 +65814,10 @@ C.wL=new S.aq(0,1/0,48,48)
 C.bw=new S.aq(0,1/0,0,1/0)
 C.NT=new S.aq(88,1/0,36,1/0)
 C.wM=new S.aq(48,1/0,48,1/0)
-C.j=new P.A(4294967295)
 C.uQ=new P.bx(20,20)
 C.wC=new K.cr(C.uQ,C.uQ,C.T,C.T)
 C.ak=new F.AT("BoxShape.rectangle")
-C.wN=new S.fE(C.j,null,null,C.wC,null,null,C.ak)
+C.wN=new S.fE(C.p,null,null,C.wC,null,null,C.ak)
 C.wO=new U.iy("BoxFit.fill")
 C.fO=new U.iy("BoxFit.contain")
 C.wP=new U.iy("BoxFit.cover")
@@ -66176,6 +66175,7 @@ C.zr=new P.A(4039164096)
 C.jH=new P.A(4281348144)
 C.zH=new P.A(4282549748)
 C.jJ=new P.A(4294901760)
+C.j=new P.A(4294967295)
 C.Ax=new P.A(452984831)
 C.Ay=new P.A(520093696)
 C.Az=new P.A(536870911)
