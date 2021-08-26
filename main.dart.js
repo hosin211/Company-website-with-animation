@@ -36637,7 +36637,7 @@ F.a9t.prototype={
 $1(a){return 0},
 $S:76}
 F.uS.prototype={
-ay(){return new F.KB(new A.Uw(),new N.uc(new B.dq(H.b([],t.Kt),P.af(0,null,!1,t.Z))),H.b([C.Bv,C.Bx,C.BB,C.Bu,C.Bt,C.By],t.bY),H.b(["HOME","TEAM","CONTACT"],t.i),null,C.m)}}
+ay(){return new F.KB(new A.Uw(),new N.uc(new B.dq(H.b([],t.Kt),P.af(0,null,!1,t.Z))),H.b([C.Bv,C.Bx,C.BB,C.Bu,C.Bt,C.By],t.bY),H.b(["HOME","TEAM","WORK"],t.i),null,C.m)}}
 F.KB.prototype={
 NN(a,b,c){if(a===0)return new V.u3(b,null)
 else if(a===2)return new T.td(b,c,null)
