@@ -36648,7 +36648,7 @@ r.r=G.bZ(q,C.bE,0,q,1,q,r)
 s=new Z.n0(H.b([],t.Jk),t.b8).IQ(P.bj(0,0,0),C.b2,P.bj(100,0,0)).kJ(0,C.dJ,new R.dv(C.j,C.p)).kJ(0,C.fy,new R.dv(C.hG,C.j)).kJ(0,C.iU,new R.dv(C.j,C.p)).kJ(0,C.iV,new R.dv(q,C.j)).d
 r.x=new R.b3(r.r,s,s.$ti.j("b3<aF.T>"))},
 P(a,b){return U.aa3(new F.a5c(this))},
-V1(a,b,c){var s,r,q,p=this,o=null,n=P.bj(0,400*b,0),m=5*$.a_b.aW()/100,l=2*$.fp.aW()/100,k=$.fp.aW()/100,j=p.x,i=j.b
+V1(a,b,c){var s,r,q,p=this,o=null,n=P.bj(0,400*b,0),m=3*$.a_b.aW()/100,l=$.fp.aW()/100,k=$.fp.aW()/100,j=p.x,i=j.b
 j=j.a
 s=t.iW
 j=s.a(i.aC(0,j.gn(j)).a.h(0,C.fy))
