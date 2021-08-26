@@ -36510,7 +36510,7 @@ p=T.eg(E.a1g(L.Dk(l,l,l,l,l,l,l,l,!0,new F.dA(4,C.ax,new Y.cR(C.a5,2,C.M)),l,l,l
 o=K.nN(50)
 n=t.J
 n=H.b([s,r,q,p,T.ll(T.ap0(new N.hI(new T.a38(),l,l,l,l,l,l,new P.D(4293456121),l,l,l,C.a5,l,l,l,l,l,l,l,T.YV(H.b([U.Dd("Assets/contact_icon.png",0.1081*m.a.c),T.eg(l,l,20),L.dn("SEND",l,l,l,l,l,l)],n),C.cR,C.br),new V.at(50,20,50,20),l,new X.cL(o,C.z),C.D,l,!1,l,l,l,l,!0,l)),l,l)],n)
-return M.dw(l,new A.tU(new T.HA(h*0.1,i*0.09,n,l),C.dK,l),l,C.wN,k,new V.at(0,10*j/100,0,0),new V.at(60,60,60,60),l)}}
+return M.dw(l,new A.tU(new T.HA(h*0.1,i*0.09,n,l),C.dK,l),l,C.wN,k*0.8,new V.at(0,10*j/100,0,0),new V.at(60,60,60,60),l)}}
 T.a34.prototype={
 $1(a){},
 $S:21}
