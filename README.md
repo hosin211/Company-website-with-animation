@@ -1,2 +1,2 @@
 # Company-website using flutter web
-https://user-images.githubusercontent.com/58986949/115314310-805b2780-a1a7-11eb-8558-648a367ea231.mp4
+https://github.com/hosin211/company-website/blob/master/assets/localhost_51738_%23_%20-%20Google%20Chrome%202021-08-20%2023-23-39_Trim.mp4?raw=true
